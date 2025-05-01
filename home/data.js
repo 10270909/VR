@@ -24,15 +24,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.1729414454192728,
-        "pitch": -0.47008356828128584,
+        "yaw": 1.3765293742248303,
+        "pitch": -0.4834095914925918,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "首頁",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
